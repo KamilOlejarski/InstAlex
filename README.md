@@ -1,6 +1,6 @@
 
-![Screenshot 2023-07-21 162021](https://github.com/KamilOlejarski/InstAlex/assets/126654760/029a80bd-d2cf-48b8-bf51-7dc188ddcf06)
 
+![Projekt_bez_nazwy-removebg-preview](https://github.com/KamilOlejarski/InstAlex/assets/126654760/da4f7fda-a8f0-4e77-b449-f4b77ad76fd5)
 
 
 
@@ -16,3 +16,6 @@ Pobrać Instagram Stories: Użytkownik podaje nazwę użytkownika na Instagramie
 Pobrać ostatnio dodane zdjęcia: Użytkownik podaje nazwę użytkownika na Instagramie oraz liczbę zdjęć do pobrania, a bot pobiera i zapisuje wybraną liczbę ostatnio dodanych zdjęć tego użytkownika.
 
 Bot działa na serwerze Discord i oczekuje poleceń od użytkownika, aby wykonać odpowiednie akcje na Instagramie. Po zalogowaniu się jako bot na serwerze Discord, jest gotowy do reagowania na polecenia użytkownika i wykonywania odpowiednich akcji związanych z pobieraniem danych z Instagrama.
+
+Aby kod zadziałał potrzebujemy uruchomić kod w środowisku czy też konsoli Windowsa, lub innych systemów. Powinno pojawić się "Zalogowano jako InstAlex", następnie wpisujemy komendę na chacie Discorda "/instagram" i wybieramy opcję co chcemy pobrać.
+Plik ze zdjęciem, czy filmikiem zapisuje się w katalogu z kodem.
