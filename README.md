@@ -1,3 +1,10 @@
+
+![Screenshot 2023-07-21 162021](https://github.com/KamilOlejarski/InstAlex/assets/126654760/029a80bd-d2cf-48b8-bf51-7dc188ddcf06)
+
+
+
+
+
 Ten kod jest skryptem Discordowego bota, który pozwala pobierać różne elementy z Instagrama, takie jak zdjęcie profilowe, Instagram Stories oraz ostatnio dodane zdjęcia. Bot działa w interaktywny sposób, komunikując się z użytkownikiem na serwerze Discord.
 
 Ogólnie, bot może wykonać trzy akcje:
