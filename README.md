@@ -35,4 +35,4 @@ Aby kod zadziałał, potrzebujemy uruchomić go w środowisku lub konsoli Window
 
 
 Made by Kamil Olejarski 
-[Moje repozytorium](https://github.com/twoje-konto/my-repo)
+[Moje repozytorium](https://github.com/KamilOlejarski?tab=repositories)
